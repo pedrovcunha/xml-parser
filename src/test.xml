@@ -1,0 +1,7 @@
+<bookstore>
+    <book>
+        <title>TypeScript Basics</title>
+        <author>John Doe</author>
+        <price>29.99</price>
+    </book>
+</bookstore>
